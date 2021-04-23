@@ -32,13 +32,13 @@
 	`$ python run.py`
 
 ## 运行效果
-* 爬虫运行界面
+* **爬虫运行界面**
 ![1](https://github.com/xxrz/WEB_qunaer/blob/main/images/crawler.png "爬虫运行界面")
-* mongdb存储去哪儿信息
+* **mongdb存储去哪儿信息**
 ![2](https://github.com/xxrz/WEB_qunaer/blob/main/images/db_qunaer.png "去哪儿信息")
-* mongdb存储三元组信息
+* **mongdb存储三元组信息**
 ![3](https://github.com/xxrz/WEB_qunaer/blob/main/images/db_qunaerTriples.png "三元组信息")
-* 知识图谱结果
+* **知识图谱结果**
 ![4](https://github.com/xxrz/WEB_qunaer/blob/main/images/Knowledge%20Graph.png "知识图谱")
 
 
