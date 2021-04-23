@@ -13,15 +13,23 @@
 
 ## 快速开始
 1. 启动mongo服务
-`$ net start MongDB`
+
+	`$ net start MongDB`
+
 2. 启动neo4j服务
-`$ neo4j start`
+
+	`$ neo4j start`
+
 3. 连接Neo4j Browser
+
 	* 浏览器上访问 http://localhost:7474/
 	* 用户名和密码与代码中一致 `auth=("neo4j", "123")`
+	
 4. 运行run.py
-`$ cd WEB_qunaer/qunaer/spiders`
-`$ python run.py`
+
+	`$ cd WEB_qunaer/qunaer/spiders`
+
+	`$ python run.py`
 
 ## 运行效果
 * 爬虫运行界面
