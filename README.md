@@ -15,10 +15,12 @@
 1. 启动mongo服务
 
 	`$ net start MongDB`
+	> 注意：需要管理员权限
 
 2. 启动neo4j服务
 
 	`$ neo4j start`
+	> 注意：需要在neo4j的安装目录下运行命令
 
 3. 连接Neo4j Browser
 
